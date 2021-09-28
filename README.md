@@ -1,1 +1,1 @@
-# Webpack-Setup
+#Webpack setup for javascript
